@@ -10,6 +10,7 @@ Full-stack across Rails, React Native, and TypeScript. AWS infrastructure, Graph
 
 ### Selected open-source
 
+- **[sansan-mcp](https://github.com/sewon-supernova/sansan-mcp)**: MCP server for [Sansan](https://www.sansan.com/), Japan's largest business card platform (60,000+ companies). 14 tools across business cards, persons, sales reports, and org structure.
 - **[relation-mcp](https://github.com/sewon-supernova/relation-mcp)**: MCP server for [Re:lation](https://ingage.jp). Brings ticket, customer, and internal-record operations into any MCP-compatible client.
 - **[trello-mcp-plus](https://github.com/sewon-supernova/trello-mcp-plus)**: Extended Trello MCP server with member assignment, label management, and due-date controls beyond the official package.
 
