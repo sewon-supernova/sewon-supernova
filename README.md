@@ -8,12 +8,6 @@ Software engineer based in Tokyo. Building developer tools, MCP servers, and rea
 
 Full-stack across Rails, React Native, and TypeScript. AWS infrastructure, GraphQL APIs, real-time systems. Currently focused on developer tooling that connects LLM agents to the operational systems engineering teams rely on every day.
 
-### Selected open-source
-
-- **[sansan-mcp](https://github.com/sewon-supernova/sansan-mcp)**: MCP server for [Sansan](https://www.sansan.com/), Japan's largest business card platform (60,000+ companies). 14 tools across business cards, persons, sales reports, and org structure.
-- **[relation-mcp](https://github.com/sewon-supernova/relation-mcp)**: MCP server for [Re:lation](https://ingage.jp). Brings ticket, customer, and internal-record operations into any MCP-compatible client.
-- **[trello-mcp-plus](https://github.com/sewon-supernova/trello-mcp-plus)**: Extended Trello MCP server with member assignment, label management, and due-date controls beyond the official package.
-
 ### Stack
 
 [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org)
