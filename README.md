@@ -1,6 +1,6 @@
 ## Sewon Kim
 
-Engineering lead at [Supernova Tokyo](https://supernova-tokyo.jp), shipping [moments](https://moments.co) — a livestreaming platform serving creators and audiences across Japan.
+Engineering lead at [Supernova Tokyo](https://supernova-tokyo.jp), shipping [moments](https://moments.co), a livestreaming platform serving creators and audiences across Japan.
 
 ---
 
@@ -10,8 +10,8 @@ End-to-end ownership of the moments product stack: Rails APIs on ECS, a React Na
 
 ### Selected open-source
 
-- **[relation-mcp](https://github.com/sewon-supernova/relation-mcp)** — MCP server for [Re:lation](https://ingage.jp). Brings ticket, customer, and internal-record operations into any MCP-compatible client.
-- **[trello-mcp-plus](https://github.com/sewon-supernova/trello-mcp-plus)** — Extended Trello MCP server with member assignment, label management, and due-date controls beyond the official package.
+- **[relation-mcp](https://github.com/sewon-supernova/relation-mcp)**: MCP server for [Re:lation](https://ingage.jp). Brings ticket, customer, and internal-record operations into any MCP-compatible client.
+- **[trello-mcp-plus](https://github.com/sewon-supernova/trello-mcp-plus)**: Extended Trello MCP server with member assignment, label management, and due-date controls beyond the official package.
 
 ### Stack
 
