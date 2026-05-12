@@ -1,12 +1,12 @@
 ## Sewon Kim
 
-Engineering lead at [Supernova Tokyo](https://supernova-tokyo.jp), shipping [moments](https://moments.co), a livestreaming platform serving creators and audiences across Japan.
+Software engineer based in Tokyo. Building developer tools, MCP servers, and real-time consumer products across the Japanese market.
 
 ---
 
 ### What I work on
 
-End-to-end ownership of the moments product stack: Rails APIs on ECS, a React Native client on iOS and Android, Sidekiq workers on EC2, and the AWS infrastructure underneath. Currently building developer tooling that connects LLM agents to the operational systems my team relies on every day.
+Full-stack across Rails, React Native, and TypeScript. AWS infrastructure, GraphQL APIs, real-time systems. Currently focused on developer tooling that connects LLM agents to the operational systems engineering teams rely on every day.
 
 ### Selected open-source
 
@@ -24,7 +24,6 @@ End-to-end ownership of the moments product stack: Rails APIs on ECS, a React Na
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/sewon@supernova--tokyo.jp-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sewon@supernova-tokyo.jp)
-[![Website](https://img.shields.io/badge/supernova--tokyo.jp-000000?style=for-the-badge&logo=safari&logoColor=white)](https://supernova-tokyo.jp)
+[![Email](https://img.shields.io/badge/contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sewon@supernova-tokyo.jp)
 
 <sub>Based in Tokyo · 東京</sub>
